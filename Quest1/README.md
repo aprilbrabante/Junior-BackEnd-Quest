@@ -14,19 +14,17 @@ A Node.js PDF crawler that automatically extracts PDFs from a given website and 
 
 ---
 
-## Installation
+## Installation and Run
 
-1. Clone the repository:
-
-```bash
+Clone the repository:
 git clone <your-repo-url>
 cd project
 
 Install dependencies:
-
 npm install puppeteer axios fs
 
-Usage
+
+## Usage
 
 Run the crawler with a URL:
 
@@ -37,3 +35,6 @@ Example:
 node src/index.js https://www.princexml.com/samples/
 
 The PDFs will be saved in downloads/.
+
+## Loom Video URL
+https://www.loom.com/share/725ae03490b5404b952469ca21a207ed

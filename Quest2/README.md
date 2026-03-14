@@ -14,3 +14,6 @@ npm install pdf-lib
 
 ## Run
 node merge.js
+
+## Loom Video URL
+https://www.loom.com/share/822fad0f88944b1ea16764cc3a1f5e3a
